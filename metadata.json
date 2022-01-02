@@ -1,0 +1,11 @@
+{
+  "name" : "ABTC",
+  "description" : "Asus battery threshold changer",
+  "shell-version" : [
+    "40",
+    "41"
+  ],
+  "url" : "",
+  "uuid" : "example@example.com",
+  "version" : 1
+}
